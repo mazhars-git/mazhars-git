@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mazharul Islam.</h1>
-<h3 align="center">I am MERN stack developer. I am living in Dhaka, Bangladesh.</h3>
+<h3 align="center">I am a MERN Stack Developer. I am living in Dhaka, Bangladesh.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhars-git&label=Profile%20views&color=0e75b6&style=flat" alt="mazhars-git" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-site-52fab.web.app/](https://my-portfolio-site-52fab.web.app/)
 - 💬 Ask me about **react, nextjs, mern stack development.**
 - 🤔 I’m looking for a MERN stack web developer job.
-- 📫 To reach me, contact at **mazharulislam611@gmail.com**
+- 📫 To reach me, send an email to **mazharulislam611@gmail.com**
 
 <h3 align="center">Connect by social media:</h3>
 <p align="center">
