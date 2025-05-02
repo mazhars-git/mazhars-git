@@ -1,3 +1,5 @@
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/mazhars-git/mazhars-git/blob/main/my%20profile.png"><img src="/gkhan205/gkhan205/raw/master/image/Banner.png" alt="Banner Image" style="max-width: 100%;"></a></p>
+
 <h1 align="center">Hi 👋, I'm Mazharul Islam.</h1>
 <h3 align="center">I am a MERN Stack Developer. I am living in Dhaka, Bangladesh.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhars-git&label=Profile%20views&color=0e75b6&style=flat" alt="mazhars-git" /> </p>
