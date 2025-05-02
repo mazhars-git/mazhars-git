@@ -1,5 +1,5 @@
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/mazhars-git/mazhars-git/blob/main/my%20profile.png">
-  <img src="/mazhars-git/mazhars-git/blob/main/my%20profile.png" alt="Banner Image" style="max-width: 100%;"></a>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mazhars-git/mazhars-git/blob/main/my%20profile.png">
+  <img src="https://github.com/mazhars-git/mazhars-git/blob/main/my%20profile.png" alt="Banner Image" style="max-width: 100%;"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mazharul Islam.</h1>
