@@ -6,7 +6,7 @@
 <h3 align="center">I am a MERN Stack Developer. Currently I am living in Dhaka, Bangladesh.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhars-git&label=Profile%20views&color=0e75b6&style=flat" alt="mazhars-git" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-site-52fab.web.app/](https://my-portfolio-site-52fab.web.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-site-52fab.web.app/](https://cool-basbousa-d9ccf3.netlify.app/)
 - 💬 Ask me about **react, nextjs, MERN stack development.**
 - 🤔 I’m looking for a MERN stack web developer job.
 - 📫 To reach me, send an email to **mazharulislam611@gmail.com**
