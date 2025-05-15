@@ -10,7 +10,7 @@ I'm a MERN stack developer with React, Redux, Next.js, and JavaScript. I am an e
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhars-git&label=Profile%20views&color=0e75b6&style=flat" alt="mazhars-git" /> </p> <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhars-git&label=Profile%20views&color=0e75b6&style=flat" alt="mazhars-git" /> </p> 
 
 - 👨‍💻 All of my projects are available at https://cool-basbousa-d9ccf3.netlify.app/
 - 💬 Ask me about **react, nextjs, MERN stack development.**
