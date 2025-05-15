@@ -2,14 +2,15 @@
   <img src="https://github.com/mazhars-git/mazhars-git/blob/main/my%20profile.png" alt="Banner Image" style="max-width: 100%;"></a>
 </p>
 <br />
-<br />
 
 # 💫 About Me:
 <h3 align="center">Hi 👋, I'm Mazharul Islam.</h3>
 I'm a MERN stack developer with React, Redux, Next.js, and JavaScript. I am an expert in building modern, scalable, high-performance web applications with clean, maintainable, standard code. From creating dynamic frontends with React and Next.js to developing robust backend APIs with Node.js and Express, I bring full-stack proficiency to every project.<br><br>With hands-on experience in MongoDB, I design and manage efficient data models and seamless integrations. I’m passionate about delivering responsive, user-focused experiences and solving real-world problems through code. Whether it's developing single-page applications, server-side rendered apps, or RESTful APIs, I bring attention to detail and a commitment to quality in every line of code I write.
+
+<br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhars-git&label=Profile%20views&color=0e75b6&style=flat" alt="mazhars-git" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhars-git&label=Profile%20views&color=0e75b6&style=flat" alt="mazhars-git" /> </p> <br />
 
 - 👨‍💻 All of my projects are available at https://cool-basbousa-d9ccf3.netlify.app/
 - 💬 Ask me about **react, nextjs, MERN stack development.**
